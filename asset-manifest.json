@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sara-yarshenas/static/css/main.8d45d33f.chunk.css",
+    "main.js": "/sara-yarshenas/static/js/main.fc2f1f46.chunk.js",
+    "main.js.map": "/sara-yarshenas/static/js/main.fc2f1f46.chunk.js.map",
+    "runtime-main.js": "/sara-yarshenas/static/js/runtime-main.21f47d4a.js",
+    "runtime-main.js.map": "/sara-yarshenas/static/js/runtime-main.21f47d4a.js.map",
+    "static/css/2.ac1ab58b.chunk.css": "/sara-yarshenas/static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.c249d833.chunk.js": "/sara-yarshenas/static/js/2.c249d833.chunk.js",
+    "static/js/2.c249d833.chunk.js.map": "/sara-yarshenas/static/js/2.c249d833.chunk.js.map",
+    "index.html": "/sara-yarshenas/index.html",
+    "precache-manifest.145d1fceda9cf50444f4418dc27cf221.js": "/sara-yarshenas/precache-manifest.145d1fceda9cf50444f4418dc27cf221.js",
+    "service-worker.js": "/sara-yarshenas/service-worker.js",
+    "static/css/2.ac1ab58b.chunk.css.map": "/sara-yarshenas/static/css/2.ac1ab58b.chunk.css.map",
+    "static/css/main.8d45d33f.chunk.css.map": "/sara-yarshenas/static/css/main.8d45d33f.chunk.css.map",
+    "static/js/2.c249d833.chunk.js.LICENSE.txt": "/sara-yarshenas/static/js/2.c249d833.chunk.js.LICENSE.txt",
+    "static/media/SY.png": "/sara-yarshenas/static/media/SY.7c5c07e2.png",
+    "static/media/aestheteMobile.png": "/sara-yarshenas/static/media/aestheteMobile.a5982505.png",
+    "static/media/aestheteWeb.png": "/sara-yarshenas/static/media/aestheteWeb.d6870f73.png",
+    "static/media/boat.jpg": "/sara-yarshenas/static/media/boat.ca90569b.jpg",
+    "static/media/coffe.jpeg": "/sara-yarshenas/static/media/coffe.4b72bd33.jpeg",
+    "static/media/elham.jpeg": "/sara-yarshenas/static/media/elham.eadf90a5.jpeg",
+    "static/media/fish.jpeg": "/sara-yarshenas/static/media/fish.ae210617.jpeg",
+    "static/media/flamingo.jpeg": "/sara-yarshenas/static/media/flamingo.45db6279.jpeg",
+    "static/media/monster.jpg": "/sara-yarshenas/static/media/monster.d9ae85bd.jpg",
+    "static/media/sara.jpg": "/sara-yarshenas/static/media/sara.917f2c97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21f47d4a.js",
+    "static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.c249d833.chunk.js",
+    "static/css/main.8d45d33f.chunk.css",
+    "static/js/main.fc2f1f46.chunk.js"
+  ]
+}
