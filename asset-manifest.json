@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sara-yarshenas/static/css/main.8d45d33f.chunk.css",
-    "main.js": "/sara-yarshenas/static/js/main.fc2f1f46.chunk.js",
-    "main.js.map": "/sara-yarshenas/static/js/main.fc2f1f46.chunk.js.map",
+    "main.js": "/sara-yarshenas/static/js/main.c8345b12.chunk.js",
+    "main.js.map": "/sara-yarshenas/static/js/main.c8345b12.chunk.js.map",
     "runtime-main.js": "/sara-yarshenas/static/js/runtime-main.21f47d4a.js",
     "runtime-main.js.map": "/sara-yarshenas/static/js/runtime-main.21f47d4a.js.map",
     "static/css/2.ac1ab58b.chunk.css": "/sara-yarshenas/static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.c249d833.chunk.js": "/sara-yarshenas/static/js/2.c249d833.chunk.js",
-    "static/js/2.c249d833.chunk.js.map": "/sara-yarshenas/static/js/2.c249d833.chunk.js.map",
+    "static/js/2.7b67e17e.chunk.js": "/sara-yarshenas/static/js/2.7b67e17e.chunk.js",
+    "static/js/2.7b67e17e.chunk.js.map": "/sara-yarshenas/static/js/2.7b67e17e.chunk.js.map",
     "index.html": "/sara-yarshenas/index.html",
-    "precache-manifest.145d1fceda9cf50444f4418dc27cf221.js": "/sara-yarshenas/precache-manifest.145d1fceda9cf50444f4418dc27cf221.js",
+    "precache-manifest.6bb0e309ad8bee9fde3e17cfd08f0169.js": "/sara-yarshenas/precache-manifest.6bb0e309ad8bee9fde3e17cfd08f0169.js",
     "service-worker.js": "/sara-yarshenas/service-worker.js",
     "static/css/2.ac1ab58b.chunk.css.map": "/sara-yarshenas/static/css/2.ac1ab58b.chunk.css.map",
     "static/css/main.8d45d33f.chunk.css.map": "/sara-yarshenas/static/css/main.8d45d33f.chunk.css.map",
-    "static/js/2.c249d833.chunk.js.LICENSE.txt": "/sara-yarshenas/static/js/2.c249d833.chunk.js.LICENSE.txt",
+    "static/js/2.7b67e17e.chunk.js.LICENSE.txt": "/sara-yarshenas/static/js/2.7b67e17e.chunk.js.LICENSE.txt",
     "static/media/SY.png": "/sara-yarshenas/static/media/SY.7c5c07e2.png",
     "static/media/aestheteMobile.png": "/sara-yarshenas/static/media/aestheteMobile.a5982505.png",
     "static/media/aestheteWeb.png": "/sara-yarshenas/static/media/aestheteWeb.d6870f73.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.21f47d4a.js",
     "static/css/2.ac1ab58b.chunk.css",
-    "static/js/2.c249d833.chunk.js",
+    "static/js/2.7b67e17e.chunk.js",
     "static/css/main.8d45d33f.chunk.css",
-    "static/js/main.fc2f1f46.chunk.js"
+    "static/js/main.c8345b12.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78b6f3adc5038ba50ab0c4bbd5f6ac2c",
+    "revision": "3a879ce738abc54c18e4934c1472a803",
     "url": "/sara-yarshenas/index.html"
   },
   {
-    "revision": "22cbcf45d5fdb207547b",
+    "revision": "98b468dbd070a0d3ea0f",
     "url": "/sara-yarshenas/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "b77f395ac63e06b59b04",
+    "revision": "93f60238e1f7468e6b2c",
     "url": "/sara-yarshenas/static/css/main.8d45d33f.chunk.css"
   },
   {
-    "revision": "22cbcf45d5fdb207547b",
-    "url": "/sara-yarshenas/static/js/2.c249d833.chunk.js"
+    "revision": "98b468dbd070a0d3ea0f",
+    "url": "/sara-yarshenas/static/js/2.7b67e17e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/sara-yarshenas/static/js/2.c249d833.chunk.js.LICENSE.txt"
+    "url": "/sara-yarshenas/static/js/2.7b67e17e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b77f395ac63e06b59b04",
-    "url": "/sara-yarshenas/static/js/main.fc2f1f46.chunk.js"
+    "revision": "93f60238e1f7468e6b2c",
+    "url": "/sara-yarshenas/static/js/main.c8345b12.chunk.js"
   },
   {
     "revision": "3dd550ee6e43697baf84",
