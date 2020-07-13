@@ -1,0 +1,67 @@
+.Arts {
+    margin: 4% 8%;
+}
+.Arts h1 {
+    color: #f37121; 
+}
+
+.SmallGreenSpace {
+    background-color: #086972;
+    height: 20px;
+    margin-top: 10px;
+}
+
+.Arts .Wrapper {
+    height: 90vh;
+    width: 80vw;
+    margin: 5vh auto 5vh auto;
+    display: grid;
+    grid-template-rows: 25% 25% 25% 25%;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap: 1rem;
+    grid-template-areas: 
+        "box1 box1 box2 box3"
+        "box1 box1 box4 box3"
+        "box5 box6 box7 box7"
+        "box8 box8 box9 box10";
+}
+
+.Wrapper .GridBox {
+    transition: all 250ms;
+    font-size: 24px;
+    font-family: sans-serif;
+    box-shadow: 0 0.1rem 0.3rem rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    animation: fadein 1s ease-out normal backwards;
+}
+
+.Wrapper .GridBox:hover {
+    z-index: 2;
+    position: relative;
+    box-shadow: 0 1.5rem 2.8rem rgba(0,0,0,0.15), 0 1rem 1rem rgba(0,0,0,0.15);
+    /* transform: translate(0,-0.0.5rem) scale(1.01); */
+    transform: scale(1.4);
+}
+
+.Wrapper .GridBox img{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid #ccc;
+    border-radius: 20px; */
+}
+
+.Wrapper .Element1 { grid-area: box1; animation-delay: 0; }
+.Wrapper .Element2 { grid-area: box2; animation-delay: 100ms; }
+.Wrapper .Element3 { grid-area: box3; animation-delay: 200ms; }
+.Wrapper .Element4 { grid-area: box4; animation-delay: 200ms; }
+.Wrapper .Element5 { grid-area: box5; animation-delay: 100ms; }
+.Wrapper .Element6 { grid-area: box6; animation-delay: 200ms; }
+.Wrapper .Element7 { grid-area: box7; animation-delay: 300ms; }
+.Wrapper .Element8 { grid-area: box8; animation-delay: 200ms; }
+.Wrapper .Element9 { grid-area: box9; animation-delay: 400ms; }
+.Wrapper .Element10 { grid-area: box10; animation-delay: 500ms; }
+
+@keyframes fadein {
+    0% { transform: scale(0); }
+    70% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}

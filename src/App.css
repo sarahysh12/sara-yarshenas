@@ -1,0 +1,26 @@
+
+/* Spaces */
+.OrangeSpace {
+  background-color: #f37121;
+  height: 250px;
+}
+
+.SmallOrangeSpace {
+  background-color: #f37121;
+  height: 20px;
+  margin-top: 10px;
+}
+
+.SmallGreenSpace {
+  background-color: #086972;
+  height: 20px;
+  margin-top: 10px;
+}
+
+/* Title */
+/* .PageTitle h1{
+  font-size: 30;
+  margin-top: 50px;
+  margin-left: 8%;
+  text-transform: uppercase;
+} */

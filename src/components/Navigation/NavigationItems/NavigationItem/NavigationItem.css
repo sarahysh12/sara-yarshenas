@@ -1,0 +1,33 @@
+.NavigationItem {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    outline: none;
+    color: #35495e;
+    height: 50px;
+}
+
+.NavigationItem a {
+    text-decoration: none;
+    color: #35495e;
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active {
+    color: #fe8a71;
+    /* font-size: 19px; */
+}
+
+@media (min-width: 500px) {
+    .NavigationItem {
+        display: flex;
+        width: 150px;
+        align-items: center;
+        color: #35495e;
+    }
+    
+    .NavigationItem a {
+        color: #35495e;
+        font-size: 17px;
+    }
+}

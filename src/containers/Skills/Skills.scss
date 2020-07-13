@@ -1,0 +1,64 @@
+.Skills {
+    margin: 4% 8%;
+}
+
+.Skills h1 {
+    color: #086972; 
+}
+
+.Skills h3 {
+    font-size: 26px;
+}
+
+.SkillList ul{
+    display: flex;
+    justify-content: left;
+    flex-flow: row wrap; 
+    margin-top: 20px;
+    list-style-type: none;
+}
+  
+.SkillList li{
+    margin: 0 20px; 
+    display: block;
+    animation-name: animateIn;
+    animation-duration: 450ms;
+    animation-delay: calc(var(--animation-order) * 100ms);
+    animation-fill-mode: both;
+    animation-timing-function: ease-in-out;
+}
+
+@for $i from 1 through 10 {
+    .SkillList li:nth-child(#{$i}n) {
+        animation-delay: #{$i * 0.2}s;
+    }
+}
+
+.ProgressBar {
+    width: 300px;
+    margin: 10px 3%;
+    padding: 0 30px;
+    height: 150px;
+    background-color: white;
+    -webkit-box-shadow: 3px 9px 46px -13px rgba(110,110,110,0.62);
+	-moz-box-shadow: 3px 9px 46px -13px rgba(110,110,110,0.62);
+    box-shadow: 3px 9px 46px -13px rgba(110,110,110,0.62);
+    border-radius: 10px;
+    
+}
+
+.IconName {
+    display: flex;
+    justify-content: flex-start;
+    height: 60px;
+    text-transform: uppercase;
+}
+.PercentageBar {
+    height: 50px;
+}
+
+
+@keyframes mymove {
+    from {top: -100px;}
+    to {top: 0px; background-color: whitesmoke;}
+  }

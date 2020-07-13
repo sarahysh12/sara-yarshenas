@@ -1,0 +1,38 @@
+.Project{
+    font-size: 18px;
+    color: #35495e;
+    display: flex;
+    margin: 50px 5px;
+    line-height: 2em;
+    height: 300px;
+
+}
+
+.ProjectText {
+    flex: 70%;
+}
+
+.ProjectImg {
+    flex: 10%;
+    padding: 3% 5%;
+}
+
+.Project h3 {
+    font-size: 24px;
+    color: #086972;
+    font-weight: 200;
+}
+
+.Project h4 {
+    color: gray;
+}
+
+.Project img {
+    width: 350px;
+    height: 250px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+
+/* TODO hide image for mobile size */

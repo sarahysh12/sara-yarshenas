@@ -1,0 +1,56 @@
+.Projects {
+    margin: 4% 8%;
+}
+
+.Projects ul {
+    padding: 0;
+    display: block;
+    margin: 24px auto;
+  }
+  
+  .Projects li {
+    display: block;
+    animation-name: animateIn;
+    animation-duration: 450ms;
+    animation-delay: calc(var(--animation-order) * 100ms);
+    animation-fill-mode: both;
+    animation-timing-function: ease-in-out;
+  }
+  
+  .Projects li:nth-child(1) {
+    animation-delay: 100ms;
+  }
+  
+  .Projects li:nth-child(2) {
+    animation-delay: 200ms;
+  }
+  
+  .Projects li:nth-child(3) {
+    animation-delay: 300ms;
+  }
+
+
+.Projects h1 {
+    color: #f37121; 
+}
+
+.Project h3 {
+    font-size: 26;
+}
+
+.SmallGreenSpace {
+    background-color: #086972;
+    height: 20px;
+    margin-top: 10px;
+}
+
+@keyframes animateIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.6) translateY(-8px);
+    }
+    
+    100% {
+      opacity: 1;
+    }
+  }

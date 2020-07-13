@@ -1,0 +1,11 @@
+.Progress {
+    /* display: flex; */
+    /* justify-content: left;
+    flex-flow: row wrap;  */
+}
+
+.CircleProgress {
+    width: 150px;
+    height: 150px;
+    margin: 20px 0px;
+}

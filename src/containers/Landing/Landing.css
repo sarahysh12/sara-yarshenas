@@ -1,0 +1,94 @@
+
+/* General */
+.Landing {
+    /* text-align: center; */
+}
+
+
+/* Header */
+
+.Header {
+    height: 400px;
+    background-color: #086972;
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.Header img {
+    margin-top: 50px;
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.Intro {
+    margin-left: 10%;
+    flex: 1;
+    width: 45%;
+    font-size: 22px;
+    color: white;
+    padding-top: 8%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+
+.Image {
+    width: 55%;
+}
+
+/* About me */
+
+
+.About {
+    padding: 0px 10%;
+    color: #35495e;
+    font-size: 20px;
+    line-height: 2em;
+    height:20%;
+}
+
+.About button {
+    background-color: #086972;
+    color: white;
+    height: 30px;
+    border: none;
+    border-radius: 10%;
+    margin: 0px 20px;
+    outline: none;
+}
+.About button:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+
+.About p {
+    padding: 30px 0;
+}
+
+
+/* Skills */
+.Skills {
+    height: 400px;
+    color: #35495e;
+}
+.Skills h3 {
+    padding: 2% 5%;
+    font-size: 30px;
+}
+.ProgressBars {
+    width: 300px;
+    margin: 10px 5%;
+}
+.SkillList {
+  display: flex;
+  justify-content: left;
+  flex-flow: row wrap; 
+  margin-top: 20px;
+  margin-left: 50px; 
+}
+
