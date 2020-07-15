@@ -1,7 +1,7 @@
 {
   "name": "my-website",
   "version": "0.1.0",
-  "homepage": "http://sarahysh12.github.io/sara-yarshenas",
+  "homepage": "http://sarahysh12.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free-solid": "^5.0.13",
