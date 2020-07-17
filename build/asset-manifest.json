@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c824f06.chunk.css",
+    "main.js": "/static/js/main.88cb9d16.chunk.js",
+    "main.js.map": "/static/js/main.88cb9d16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b126251.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
+    "static/css/2.ac1ab58b.chunk.css": "/static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.0c13fc57.chunk.js": "/static/js/2.0c13fc57.chunk.js",
+    "static/js/2.0c13fc57.chunk.js.map": "/static/js/2.0c13fc57.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.defaccdb48379cf3e96a211f2db48535.js": "/precache-manifest.defaccdb48379cf3e96a211f2db48535.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ac1ab58b.chunk.css.map": "/static/css/2.ac1ab58b.chunk.css.map",
+    "static/css/main.9c824f06.chunk.css.map": "/static/css/main.9c824f06.chunk.css.map",
+    "static/js/2.0c13fc57.chunk.js.LICENSE.txt": "/static/js/2.0c13fc57.chunk.js.LICENSE.txt",
+    "static/media/BGSUlogo.jpg": "/static/media/BGSUlogo.f1f1efb4.jpg",
+    "static/media/SY.png": "/static/media/SY.7c5c07e2.png",
+    "static/media/aestheteMobile.png": "/static/media/aestheteMobile.a5982505.png",
+    "static/media/aestheteWeb.png": "/static/media/aestheteWeb.d6870f73.png",
+    "static/media/boat.jpg": "/static/media/boat.ca90569b.jpg",
+    "static/media/coffe.jpeg": "/static/media/coffe.4b72bd33.jpeg",
+    "static/media/dogCats.jpg": "/static/media/dogCats.a92d5035.jpg",
+    "static/media/elham.jpeg": "/static/media/elham.94a9dafb.jpeg",
+    "static/media/fish.jpeg": "/static/media/fish.ae210617.jpeg",
+    "static/media/flamingo.jpeg": "/static/media/flamingo.45db6279.jpeg",
+    "static/media/monster.jpg": "/static/media/monster.d9ae85bd.jpg",
+    "static/media/sara.jpg": "/static/media/sara.917f2c97.jpg",
+    "static/media/ship.jpg": "/static/media/ship.dc10ba16.jpg",
+    "static/media/wordpress1.png": "/static/media/wordpress1.5163d4d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b126251.js",
+    "static/css/2.ac1ab58b.chunk.css",
+    "static/js/2.0c13fc57.chunk.js",
+    "static/css/main.9c824f06.chunk.css",
+    "static/js/main.88cb9d16.chunk.js"
+  ]
+}
