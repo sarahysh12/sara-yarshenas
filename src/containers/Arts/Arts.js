@@ -23,7 +23,7 @@ class Arts extends Component {
                 <Menu/>
                 <div className="Arts">
                     <h1>Arts</h1>
-                    <div className="Wrapper E">
+                    <div className="Wrapper">
                         {arts}
                     </div>
                 </div>

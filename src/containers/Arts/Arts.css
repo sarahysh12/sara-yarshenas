@@ -27,9 +27,9 @@
 }
 
 .Wrapper .GridBox {
+    border: 1spx solid #ccc;
+    border-radius: 20px;
     transition: all 250ms;
-    font-size: 24px;
-    font-family: sans-serif;
     box-shadow: 0 0.1rem 0.3rem rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     animation: fadein 1s ease-out normal backwards;
 }
@@ -45,8 +45,8 @@
 .Wrapper .GridBox img{
     height: 100%;
     width: 100%;
-    /* border: 1px solid #ccc;
-    border-radius: 20px; */
+    border: 1px solid #ccc;
+    border-radius: 20px;
 }
 
 .Wrapper .Element1 { grid-area: box1; animation-delay: 0; }
@@ -65,3 +65,16 @@
     70% { transform: scale(1.05); }
     100% { transform: scale(1); }
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .Arts .Wrapper {
+        display: flex;
+        flex-flow: column;
+    }
+
+    .Wrapper .GridBox {
+        margin: 20px 40px;
+    }
+  }
