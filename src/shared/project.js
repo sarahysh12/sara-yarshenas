@@ -1,6 +1,7 @@
 import aestheteWeb from '../assets/images/aestheteWeb.png';
 import aestheteMob from '../assets/images/aestheteMobile.png';
-import mlProject from '../assets/images/SY.png';
+import mlProject from '../assets/images/BGSUlogo.jpg';
+import dentistryWordpress from '../assets/images/wordpress1.png';
 
 export const projects = [
     {
@@ -11,7 +12,19 @@ export const projects = [
         "descrption": "A web applicatin to connect with the people of the same interest and exchange your skill with them. Your passion can be as simple as cooking to teaching/learning mathematics or music lession. It connects the people who share the same interest!",
         "skills": ["React", "Redux", "Thunk", "Saga", "HTML5", "CSS3", "Firebase DB"],
         "githuburl": "https://github.com/sarahysh12/aesthete",
-        "image": aestheteWeb
+        "image": aestheteWeb,
+        "websiteUrl": ""
+    },
+    {
+        "title": "Dentistry Website with Wordpress",
+        "start": "July 2020",
+        "end": "July 2020",
+        "location": "San Francisco, California",
+        "descrption": "A dentistry personal website which includes provided services, booking appointment, dentist work/research experience, contact information and displaying google reviews", 
+        "skills": ["Wordress"],
+        "githuburl": "",
+        "image": dentistryWordpress,
+        "websiteUrl": "http://abdentistry.unaux.com"
     },
     {
         "title": "Online Art Experience Mobile Application (Aesthete)",
@@ -21,17 +34,9 @@ export const projects = [
         "descrption": "An easy to use application for Aesthete to be used on every device", 
         "skills": ["React Native", "Firebase DB"],
         "githuburl": "https://github.com/sarahysh12/aesthete-mobile",
-        "image": aestheteMob
+        "image": aestheteMob,
+        "websiteUrl": ""
     },
-    // {
-    //     "title": "Random planner (Moody)",
-    //     "start": "June 2020",
-    //     "end": "Present",
-    //     "location": "San Francisco, California",
-    //     "descrption": "An iOS application to pick an entertaining and fun plan for your weekends when you're bored and don't have any idea what to do!", 
-    //     "skills": ["SwiftUI"],
-    //     "githuburl": "https://github.com/sarahysh12/"
-    // }
     {
         "title": "Kidney Transplant Failure Prediction Tool",
         "start": "July 2017",
@@ -39,8 +44,20 @@ export const projects = [
         "location": "Bowling Green, Ohio",
         "descrption": "A tool for calculating metrics that have impact on a kidney transplant and predicting the number of days a reciever will live after the transplant", 
         "skills": ["Python", "Machine Learning", "Keras", "Scikit-Learn"],
-        "githuburl": "https://github.com/sarahysh12/",
-        "image": mlProject
+        "githuburl": "https://github.com/sarahysh12/kidney-transplant-data-analysis",
+        "image": mlProject,
+        "websiteUrl": ""
     }
 
 ]
+
+
+// {
+//     "title": "Random planner (Moody)",
+//     "start": "June 2020",
+//     "end": "Present",
+//     "location": "San Francisco, California",
+//     "descrption": "An iOS application to pick an entertaining and fun plan for your weekends when you're bored and don't have any idea what to do!", 
+//     "skills": ["SwiftUI"],
+//     "githuburl": "https://github.com/sarahysh12/"
+// },

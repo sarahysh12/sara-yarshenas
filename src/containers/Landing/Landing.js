@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { NavLink } from 'react-router-dom';
 import './Landing.css';
 import myImg from '../../assets/images/sara.jpg';
 
@@ -61,8 +62,9 @@ class Landing extends Component {
                     </div>
                 </div>
                 <div className="About">
-                    <p>Hi, my name is Sara. I am a Software Engineer based in San Francisco. I studied in bachelor of software engineering and master in computere science. I have two years of experience in industry as a data engineer and software engineer. I am expert developing front ends using Angular and React frameworks and I recently started learning SwiftUI and React Native.
-                    <button href="#">Read more</button></p>
+                    <p>Hi, my name is Sara. I am a Software Engineer based in San Francisco. I studied in bachelor of software engineering and master in computere science. I have two years of experience in industry as a data engineer and software engineer. I am expert developing front ends using Angular and React frameworks and I recently started learning SwiftUI and React Native
+                    <NavLink className="redirectBtn" to="/aboutme" >Read more</NavLink>
+                    </p>
                 </div>
                 <div className="OrangeSpace">
                     {/* <img src={myProgramming} width="900px" height="700px"></img> */}

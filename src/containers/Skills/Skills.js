@@ -15,8 +15,10 @@ import { faSwift } from '@fortawesome/free-brands-svg-icons';
 import { faHtml5 } from '@fortawesome/free-brands-svg-icons';
 import { faCss3 } from '@fortawesome/free-brands-svg-icons';
 import { faBootstrap } from '@fortawesome/free-brands-svg-icons';
+import { faWordpress } from '@fortawesome/free-brands-svg-icons';
+import { faSass } from '@fortawesome/free-brands-svg-icons';
 
-library.add(faPython, faAngular, faReact, faSwift, faHtml5, faCss3, faBootstrap);
+library.add(faPython, faAngular, faReact, faSwift, faHtml5, faCss3, faBootstrap, faWordpress, faSass);
 
 
 class Skills extends Component {
@@ -28,7 +30,7 @@ class Skills extends Component {
                     <div className="ProgressBar">
                         <p className="IconName">
                             {icon}
-                            <span style={{flex: 1, paddingTop: '9%', paddingLeft: '1%'}}>{key}</span>
+                            <span style={{flex: 1, paddingTop: '3%', paddingLeft: '1%'}}>{key}</span>
                         </p>
                         <div className="PercentageBar">
                             <span>{skillList[key]}%</span>
@@ -47,7 +49,7 @@ class Skills extends Component {
                 <Menu/>
                 <div className="Skills">
                     <h1>Skills</h1>
-                    <div className="SkillList">
+                    <div className="SkillLst">
                         <ul>
                         {skills}
                         </ul>

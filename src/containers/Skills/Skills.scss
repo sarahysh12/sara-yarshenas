@@ -10,7 +10,7 @@
     font-size: 26px;
 }
 
-.SkillList ul{
+.SkillLst ul{
     display: flex;
     justify-content: left;
     flex-flow: row wrap; 
@@ -18,7 +18,7 @@
     list-style-type: none;
 }
   
-.SkillList li{
+.SkillLst li{
     margin: 0 20px; 
     display: block;
     animation-name: animateIn;
@@ -29,15 +29,15 @@
 }
 
 @for $i from 1 through 10 {
-    .SkillList li:nth-child(#{$i}n) {
+    .SkillLst li:nth-child(#{$i}n) {
         animation-delay: #{$i * 0.2}s;
     }
 }
 
 .ProgressBar {
-    width: 300px;
-    margin: 10px 3%;
-    padding: 0 30px;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px 30px;
     height: 150px;
     background-color: white;
     -webkit-box-shadow: 3px 9px 46px -13px rgba(110,110,110,0.62);

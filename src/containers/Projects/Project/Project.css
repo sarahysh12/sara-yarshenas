@@ -34,5 +34,15 @@
     border-radius: 20px;
 }
 
+.ProjectDesc {
+
+}
+
+
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
 
 /* TODO hide image for mobile size */

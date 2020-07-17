@@ -15,7 +15,6 @@
 .ContactMe {
     margin: 2% 5%;
     color: #35495e;
-    width: 50%;
 }
 
 .ContactMe input[type=text], select, textarea{
@@ -40,4 +39,5 @@
     border-radius: 4px;
     cursor: pointer;
     float: right;
+    margin: 10px 0;
   }

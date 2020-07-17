@@ -89,6 +89,17 @@
   justify-content: left;
   flex-flow: row wrap; 
   margin-top: 20px;
-  margin-left: 50px; 
+  /* margin-left: 50px;  */
 }
 
+.redirectBtn {
+    background-color: #086972;
+    color: white;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    margin: 0px 20px;
+    padding: 10px 10px;
+    outline: none;
+    text-decoration: none;
+}

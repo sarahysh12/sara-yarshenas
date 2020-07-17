@@ -11,6 +11,7 @@ export const icons = {
     'react-native': '',
     'html5': 'fab',
     'css3': 'fab',
-    'bootstrap': 'fab'
-
+    'bootstrap': 'fab',
+    'sass': 'fab',
+    'wordpress': 'fab'
  }

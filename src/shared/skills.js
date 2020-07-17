@@ -11,6 +11,7 @@ export const skillList = {
        'react-native': '30',
        'html5': '100',
        'css3': '100',
-       'bootstrap': '90'
-
+       'bootstrap': '90',
+       'sass': '50',
+       'wordpress': '70'
     }
